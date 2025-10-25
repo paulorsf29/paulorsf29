@@ -20,12 +20,19 @@
 ## 📈 Estatísticas
 
 <div align="center">
-  <a href="https://github.com/paulorsf29">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulorsf29&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulorsf29&layout=compact&langs_count=7&theme=dracula"/>
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulorsf29&show_icons=true&theme=aura&include_all_commits=true&count_private=true&bg_color=30,0f172a,1e1b4b&title_color=67e8f9&text_color=c7d2fe&icon_color=818cf8&border_color=4f46e5&border_radius=10" alt="Estatísticas" style="border: 2px solid #4f46e5; border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulorsf29&layout=compact&theme=aura&langs_count=8&bg_color=30,1e1b4b,0f172a&title_color=67e8f9&text_color=c7d2fe&border_color=4f46e5&border_radius=10&hide=html,css" alt="Linguagens mais usadas" style="border: 2px solid #4f46e5; border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'"/>
+
 </div>
 
-## 🔥 Streak Stats
+<br>
+
+<div align="center">
+
+## 🔥 Contribuições
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paulorsf29&theme=dracula)
 
 ## 📫 Como me encontrar
